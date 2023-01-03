@@ -23,7 +23,7 @@ but here I am using a simulator in which we are going to connect it to the IBM c
 
 The simulator I used is [here](https://watson-iot-sensor-simulator.mybluemix.net/)
 
-![Simulator](/tasks/IoT_simulator.png)
+![Simulator](/Smart Agricultural System/Smart Agricultural System1.png)
 
 ## Web App User Interface
 
@@ -37,13 +37,13 @@ There are two tabs in this Web App :
   
    I used [OpenWeather](https://openweathermap.org/guide) to collect weather forecast data.
    
-   ![Home tab](/tasks/Home_UI.png)
+   ![Home tab](/Smart Agricultural System/Smart Agricultural System 4.png)
    
 ###  2.Controls tab
 
    This tab contains the controls of motor to switch it on, off and also a button to specify motor to run for 30 minutes continuosly.
    
-   ![Controls tab](/tasks/Controls_UI.png)
+   ![Controls tab](/Smart Agricultural System/Smart Agricultural System 3.png)
 
 ## NodeRed Program Flow
 
